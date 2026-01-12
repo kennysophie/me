@@ -112,11 +112,11 @@ skills:
       - name: Hiking
         description: ''
         percent: 80
-        icon: hike
+        icon: map
       - name: Sewing
         description: ''
         percent: 90
-        icon: sew
+        icon: scissors
       - name: Reading
         description: ''
         percent: 70
