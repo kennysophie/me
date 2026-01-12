@@ -101,7 +101,7 @@ skills:
         description: ''
         percent: 100
         icon: cloud
-        - name: Teaching
+      - name: Teaching
         description: ''
         percent: 100
         icon: chart-bar
