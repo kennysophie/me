@@ -43,10 +43,10 @@ profiles:
     url: https://orcid.org/0000-0002-7908-1506
 
 interests:
-  - Bunnies
-  - Mini cupcakes
-  - Another bunny
-  - Cute pinchable Kian cheeks
+  - Product Development
+  - Research Technology
+  - Data Analysis
+  - Research Methods (Eye-Tracking, fMRI, VR)
 
 education:
   - area: PhD Psychology (Neuroscience focus)
@@ -86,37 +86,37 @@ work:
     date_start: 2018-05-01
     date_end: ''
     summary: |2-
-      Petted a heck of a lot of buns. I mean, like, a silly amount of them.
+      Bridging neuroscience research needs with software design, user training, and scientific collaboration to support global research.
  
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Skills
     items:
-      - name: Python & PyTorch
+      - name: c++, python, matlab for vision research
         description: ''
-        percent: 95
+        percent: 100
         icon: code-bracket
-      - name: Machine Learning
+      - name: Data science
+        description: ''
+        percent: 100
+        icon: cloud
+        - name: Teaching
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Bunny petting
-        description: ''
-        percent: 200
-        icon: cloud
   - name: Hobbies
-    color: '#eeac02'
+    color: '#a702eeff'
     color_border: '#f0bf23'
     items:
       - name: Hiking
         description: ''
         percent: 80
-        icon: person-simple-walk
+        icon: hike
       - name: Sewing
         description: ''
         percent: 90
-        icon: cpu-chip
+        icon: sew
       - name: Reading
         description: ''
         percent: 70
@@ -127,8 +127,7 @@ languages:
     percent: 100
   - name: French
     percent: 100
-  - name: bungalese
-    percent: 1000
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
