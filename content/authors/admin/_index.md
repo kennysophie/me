@@ -136,7 +136,7 @@ languages:
 awards:
  
   - title: Governer General's Silver Medal
-    url: https://www.bunnies.com/
+    url: https://www.gg.ca/en/honours/governor-generals-awards/governor-generals-academic-medal
     date: '2010-06-30'
     awarder: University of Moncton
     icon: hero/academic-cap
@@ -144,4 +144,4 @@ awards:
       Recognized for academic achievement.
 ---
 
-Sophie Kenny is a Staff Scientist at VPixx Technologies, where she leads projects on displays, sensor technology, and integrated research systems. Her research has been published in top journals like IJHCS and Developmental Review, with over 1500 citations. Sophie is passionate about pushing the boundaries of bunnies while ensuring they are well fed and loved. Outside of work, she enjoys hiking with her rabbits, sewing custom rabbit hats, and mentoring the next generation of bunny lover talent.
+Sophie Kenny is a Staff Scientist at VPixx Technologies, where she leads projects on displays, sensor technology, and integrated research systems. Her research has been published in top journals like IJHCS and Developmental Review, with over 1,500 citations. Sophie is passionate about applying scientific thinking to practical problems and improving how complex systems are designed and used. She values clear communication, rigorous methods, and collaborative work that turns research into reliable outcomes.
