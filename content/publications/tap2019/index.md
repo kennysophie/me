@@ -27,7 +27,7 @@ abstract: The individual shape of the human body, including the geometry of its 
 summary: The visual system relies on its knowledge of shape and motion and that these components are assimilated into an altered perception of action outcomes.
 
 tags:
-- Source Themes
+- Research
 featured: True
 
 hugoblox:

@@ -26,7 +26,7 @@ summary: This review paper summarizes the concepts of presence and cybersickness
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 hugoblox:
   ids:
