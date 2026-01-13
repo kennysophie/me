@@ -25,7 +25,8 @@ abstract: In order to take advantage of the potential offered by the medium of v
 summary: This review paper summarizes the concepts of presence and cybersickness and highlights the strengths and gaps in our understanding about their relationship. 
 
 tags:
-- Source Themes
+- Virtual Reality
+- Research
 featured: true
 
 hugoblox:
