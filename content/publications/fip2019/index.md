@@ -36,25 +36,11 @@ hugoblox:
 links:
   - type: pdf
     url: https://public-pages-files-2025.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00158/pdf
-  - type: code
-    url: ""
-  - type: dataset
-    url: ""
-  - type: poster
-    url: ""
-  - type: project
-    url: ""
-  - type: slides
-    url: ""
-  - type: source
-    url: ""
-  - type: video
-    url: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption:
   focal_point: ""
   preview_only: false
 
@@ -72,11 +58,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-> [!NOTE]
-> Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-
-> [!NOTE]
-> Create your slides in Markdown - click the *Slides* button to check out the example.
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
