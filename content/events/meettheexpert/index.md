@@ -1,7 +1,7 @@
 ---
 title: Meet the Expert - Projectors in Small Spaces
 
-event: VPixx Technologies Inc.
+event: Watch on YouTube.com
 event_url: https://www.youtube.com/watch?v=GB_DJ_lc8IA&pp=ygUMc29waGllIGtlbm55
 
 location: Online
@@ -30,7 +30,7 @@ tags:
 featured: True
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ""
   focal_point: Right
 
 links:
@@ -51,14 +51,3 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-> [!NOTE]
-> Click on the **Slides** button above to view the built-in slides feature.
-
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using the `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to this page bundle and link it using `links: [{ type: slides, url: path/to/file } ]` in front matter
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
