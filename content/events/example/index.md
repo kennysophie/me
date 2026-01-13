@@ -1,24 +1,20 @@
 ---
-title: Example Talk
+title: Meet the Expert':' Projectors in Small Spaces
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
 
-location: Hugo Blox Builder HQ
+location: Online
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+
+summary: Dr. Sophie Kenny discusses the considerations and challenges of installing a PROPixx projection system in small spaces.
+abstract: 'In this interview, VPixx Staff Scientist Dr. Sophie Kenny discusses the considerations and challenges of installing a PROPixx projection system in small spaces, including magnetically shielded rooms for OPM and MEG research systems. We discuss the advantages of using projection systems in these installations, where to put the projector, waveguides, concerns regarding participant position and eye height, and what kind of mirrors are best for projection installations.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-03-01T13:00:00Z'
+date_end: '2024-03-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -27,22 +23,19 @@ publishDate: '2017-01-01T00:00:00Z'
 authors:
   - admin
 
-tags: []
+tags: 
+  - Research
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: True
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 links:
-  - type: code
-    url: https://github.com
-  - type: slides
-    url: https://slideshare.net
   - type: video
-    url: https://youtube.com
+    url: https://www.youtube.com/watch?v=GB_DJ_lc8IA&pp=ygUMc29waGllIGtlbm55
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -56,8 +49,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - example
+projects: []
 ---
 
 > [!NOTE]
