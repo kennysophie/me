@@ -32,10 +32,6 @@ tags:
 - Research
 featured: True
 
-hugoblox:
-  ids:
-    arxiv:
-
 links:
   - type: pdf
     url: https://dl.acm.org/doi/pdf/10.1145/3301411

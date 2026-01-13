@@ -29,10 +29,6 @@ tags:
 - Research
 featured: true
 
-hugoblox:
-  ids:
-    arxiv:
-
 links:
   - type: pdf
     url: https://public-pages-files-2025.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00158/pdf
