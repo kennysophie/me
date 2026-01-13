@@ -1,8 +1,7 @@
 ---
 title: "Presence and Cybersickness in Virtual Reality Are Negatively Related: A Review"
 authors:
-- Seamas Weech
-- admin
+- Seamas Weech, Sophie Kenny
 - Michael Barnett-Cowan
 author_notes:
 date: "2019-09-01T00:00:00Z"
