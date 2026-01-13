@@ -145,3 +145,10 @@ awards:
 ---
 
 Sophie Kenny is a Staff Scientist at VPixx Technologies, where she leads projects on displays, sensor technology, and integrated research systems. Her research has been published in top journals like IJHCS and Developmental Review, with over 1,500 citations. Sophie is passionate about applying scientific thinking to practical problems and improving how complex systems are designed and used. She values clear communication, rigorous methods, and collaborative work that turns research into reliable outcomes.
+
+---
+<!-- 
+{{< button url="#" style="primary" size="lg" align="left" icon="" >}}View Dashboard{{< /button >}}
+
+
+{{< button url="#" style="secondary" size="lg" align="left" icon="chart-bar" >}}View Dashboard{{< /button >}} -->
