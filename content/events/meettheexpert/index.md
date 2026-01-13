@@ -5,7 +5,7 @@ event: Watch on YouTube.com
 event_url: https://www.youtube.com/watch?v=GB_DJ_lc8IA&pp=ygUMc29waGllIGtlbm55
 
 location: Online
-address:
+address: 
 
 
 summary: Dr. Sophie Kenny discusses the considerations and challenges of installing a PROPixx projection system in small spaces.
