@@ -1,8 +1,8 @@
 ---
 title: Meet the Expert':' Projectors in Small Spaces
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: VPixx Technologies Inc.
+event_url: https://www.youtube.com/watch?v=GB_DJ_lc8IA&pp=ygUMc29waGllIGtlbm55
 
 location: Online
 address:
