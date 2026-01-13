@@ -28,7 +28,7 @@ summary: The visual system relies on its knowledge of shape and motion and that 
 
 tags:
 - Source Themes
-featured: false
+featured: True
 
 hugoblox:
   ids:
