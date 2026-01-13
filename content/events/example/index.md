@@ -1,5 +1,5 @@
 ---
-title: Meet the Expert':' Projectors in Small Spaces
+title: Meet the Expert - Projectors in Small Spaces
 
 event: VPixx Technologies Inc.
 event_url: https://www.youtube.com/watch?v=GB_DJ_lc8IA&pp=ygUMc29waGllIGtlbm55
